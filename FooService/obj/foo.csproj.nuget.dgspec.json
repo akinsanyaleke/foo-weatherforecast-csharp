@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/foo-weather-app-dotnet6/FooService/foo.csproj": {}
+    "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/foo-weatherforecast-csharp/foo-weatherforecast-csharp/FooService/foo.csproj": {}
   },
   "projects": {
-    "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/foo-weather-app-dotnet6/FooService/foo.csproj": {
+    "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/foo-weatherforecast-csharp/foo-weatherforecast-csharp/FooService/foo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/foo-weather-app-dotnet6/FooService/foo.csproj",
+        "projectUniqueName": "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/foo-weatherforecast-csharp/foo-weatherforecast-csharp/FooService/foo.csproj",
         "projectName": "foo",
-        "projectPath": "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/foo-weather-app-dotnet6/FooService/foo.csproj",
+        "projectPath": "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/foo-weatherforecast-csharp/foo-weatherforecast-csharp/FooService/foo.csproj",
         "packagesPath": "/Users/aakinsanya/.nuget/packages/",
-        "outputPath": "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/foo-weather-app-dotnet6/FooService/obj/",
+        "outputPath": "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/foo-weatherforecast-csharp/foo-weatherforecast-csharp/FooService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aakinsanya/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -35,12 +35,12 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[5.6.*, )"
             }
           },
           "imports": [

@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "D7lMR+xqNbYeGKvCgzm2vduO60sbB8gYYdiA8A7qpEb/4SfwUnvV9/MUCNFHrx/KTl8+KxTHeK6PMaZT/tgZYQ==",
+  "dgSpecHash": "zw8nXbqvl8uUMx5FPpM+67oNnZOvhI84JhdL3ezqxjt7cdjK7idS3Pp46S1OlF7mu5J8IFnDJ19X6JRejQU+Ug==",
   "success": true,
-  "projectFilePath": "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/foo-weather-app-dotnet6/FooService/foo.csproj",
+  "projectFilePath": "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/foo-weatherforecast-csharp/foo-weatherforecast-csharp/FooService/foo.csproj",
   "expectedPackageFiles": [
     "/Users/aakinsanya/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/aakinsanya/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/aakinsanya/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "/Users/aakinsanya/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "/Users/aakinsanya/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/Users/aakinsanya/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "/Users/aakinsanya/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/aakinsanya/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/aakinsanya/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/aakinsanya/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
 }
