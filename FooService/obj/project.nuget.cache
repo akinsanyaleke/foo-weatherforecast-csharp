@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "D7lMR+xqNbYeGKvCgzm2vduO60sbB8gYYdiA8A7qpEb/4SfwUnvV9/MUCNFHrx/KTl8+KxTHeK6PMaZT/tgZYQ==",
+  "success": true,
+  "projectFilePath": "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/foo-weather-app-dotnet6/FooService/foo.csproj",
+  "expectedPackageFiles": [
+    "/Users/aakinsanya/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/aakinsanya/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/aakinsanya/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/aakinsanya/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/aakinsanya/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/aakinsanya/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
